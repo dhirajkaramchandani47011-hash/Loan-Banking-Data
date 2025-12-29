@@ -3,6 +3,7 @@ This project analyzes banking and loan data using Excel to identify trends in lo
 
 
 📊 Loan & Banking Data Analysis (Excel)
+
 📌 Project Overview
 
 This project focuses on analyzing loan and banking data to uncover insights related to loan distribution, customer profiles, interest rates, and repayment patterns. The analysis is performed using Microsoft Excel, demonstrating strong fundamentals in data cleaning, analysis, and reporting.
